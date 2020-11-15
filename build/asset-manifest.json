@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b939e33.chunk.css",
+    "main.js": "/static/js/main.cb35124f.chunk.js",
+    "main.js.map": "/static/js/main.cb35124f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7918a0be.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7918a0be.js.map",
+    "static/css/2.2d06ddf1.chunk.css": "/static/css/2.2d06ddf1.chunk.css",
+    "static/js/2.dc723b9e.chunk.js": "/static/js/2.dc723b9e.chunk.js",
+    "static/js/2.dc723b9e.chunk.js.map": "/static/js/2.dc723b9e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c8792536ec0727913fbe04db80f596f7.js": "/precache-manifest.c8792536ec0727913fbe04db80f596f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2d06ddf1.chunk.css.map": "/static/css/2.2d06ddf1.chunk.css.map",
+    "static/css/main.0b939e33.chunk.css.map": "/static/css/main.0b939e33.chunk.css.map",
+    "static/js/2.dc723b9e.chunk.js.LICENSE.txt": "/static/js/2.dc723b9e.chunk.js.LICENSE.txt",
+    "static/media/AppStore_Image.PNG": "/static/media/AppStore_Image.1062d562.PNG",
+    "static/media/Facebook.PNG": "/static/media/Facebook.ff75f41f.PNG",
+    "static/media/GooglePlay_Image.PNG": "/static/media/GooglePlay_Image.c8863168.PNG",
+    "static/media/Instagram.PNG": "/static/media/Instagram.7096c6bc.PNG",
+    "static/media/Twitter.PNG": "/static/media/Twitter.fd9d54c0.PNG",
+    "static/media/footer.png": "/static/media/footer.4b657dad.png",
+    "static/media/icon_Image.PNG": "/static/media/icon_Image.0044653c.PNG",
+    "static/media/map.jpg": "/static/media/map.fd11c6b2.jpg",
+    "static/media/olx_logo.png": "/static/media/olx_logo.c375dde6.png",
+    "static/media/top_img.png": "/static/media/top_img.8337c6d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7918a0be.js",
+    "static/css/2.2d06ddf1.chunk.css",
+    "static/js/2.dc723b9e.chunk.js",
+    "static/css/main.0b939e33.chunk.css",
+    "static/js/main.cb35124f.chunk.js"
+  ]
+}
